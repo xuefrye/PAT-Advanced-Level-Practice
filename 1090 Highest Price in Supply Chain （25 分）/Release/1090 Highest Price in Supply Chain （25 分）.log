@@ -1,0 +1,9 @@
+﻿  1090 Highest Price in Supply Chain （25 分）.cpp
+c:\users\xue\desktop\pat 加急\c++\pat (advanced level) practice\1090 highest price in supply chain （25 分）\1090 highest price in supply chain （25 分）.cpp(36): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+c:\users\xue\desktop\pat 加急\c++\pat (advanced level) practice\1090 highest price in supply chain （25 分）\1090 highest price in supply chain （25 分）.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 83 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  1090 Highest Price in Supply Chain （25 分）.vcxproj -> C:\Users\xue\Desktop\PAT 加急\C++\PAT (Advanced Level) Practice\Release\1090 Highest Price in Supply Chain （25 分）.exe

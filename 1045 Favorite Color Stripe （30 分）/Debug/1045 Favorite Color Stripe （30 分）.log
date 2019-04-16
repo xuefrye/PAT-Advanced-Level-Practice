@@ -1,0 +1,4 @@
+﻿  1045 Favorite Color Stripe （30 分）.cpp
+d:\算法\c++\pat (advanced level) practice\1045 favorite color stripe （30 分）\1045 favorite color stripe （30 分）.cpp(8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\算法\c++\pat (advanced level) practice\1045 favorite color stripe （30 分）\1045 favorite color stripe （30 分）.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+  1045 Favorite Color Stripe （30 分）.vcxproj -> D:\算法\C++\PAT (Advanced Level) Practice\Debug\1045 Favorite Color Stripe （30 分）.exe
